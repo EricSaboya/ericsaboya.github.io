@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &AtmosEric
+  username               : @AtmosEric
 facebook:
   username               :
   app_id                 :
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Eric Saboya"
-  avatar           : "profilepic.jpg"
+  avatar           : "es.jpg"
   bio              : "Postdoctoral Research Associate in Atmospheric Sciences"
-  location         : "University of Bristol"
-  employer         :
+  location         : "Bristol"
+  employer         : "University of Bristol"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"https://scholar.google.com/citations?user=TFgZfpIAAAAJ&hl=en"
-  email            :
+  email            : "eric.saboya@bristol.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://uk.linkedin.com/in/eric-saboya-514a86230?trk=public_profile_browsemap"
+  orcid            : "http://orcid.org/0000-0002-2055-0857"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@AtmosEric"
   vine             :
   weibo            :
   xing             :

@@ -10,13 +10,7 @@ redirect_from:
 
 Hello!
 
-I'm Eric, and I'm currently a Postdoctoral Research Associate in the [Atmospheric Chemistry Research Group](https://www.bristol.ac.uk/chemistry/research/acrg/) at the University of Bristol working with Prof. Matt Rigby and Dr. Anita Ganesan. In my current role as an atmospheric scientist I develop methods for quantifying sources and sinks of greenhouse gases using Bayesian methods. I recently completed my PhD in the Department of Physics at Imperial College London where I was supervised by Drs. Heather Graven and Tim Arnold (NPL). 
-
-Alongside my research I am involved in some science communication projects including my podcast _A Cup of Atmospheric Science_ where I share and interview atmospheric scientists about their work. 
-
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/3XsZJumszhZOgNvL11vw77?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
+I'm Eric, and I'm currently a Postdoctoral Research Associate in the [Atmospheric Chemistry Research Group](https://www.bristol.ac.uk/chemistry/research/acrg/) at the University of Bristol working with Prof. Matt Rigby and Dr. Anita Ganesan. In my current role as an atmospheric scientist I develop methods for quantifying sources and sinks of greenhouse gases using Bayesian statistical approaches. I recently completed my PhD in the Department of Physics at Imperial College London where I was supervised by Drs. Heather Graven and Tim Arnold (NPL). 
 
 Current Research Interests
 ======
@@ -25,6 +19,13 @@ Current Research Interests
   - Application of Bayesian methods for source and sink attribution of greenhouse gases 
 
   - Using carbon isotopes as source tracers of CO2 and CH4 emissions
+
+
+Alongside my research I am involved in some science communication projects including my podcast _A Cup of Atmospheric Science_ where I share and interview atmospheric scientists about their work (Please go check it out!). 
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/3XsZJumszhZOgNvL11vw77?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
 
 
 

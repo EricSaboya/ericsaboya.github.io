@@ -8,15 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-As an atmospheric scientist with a background in pure mathematics and physics, Dr. Eric Saboya has diverse experience in developing methods for quantifying sources and sinks of greenhouse gases. He is currently a postdoctoral research associate at the University of Bristol working with Prof. Matt Rigby and Anita Ganesan. Eric completed his PhD in the Department of Physics, Imperial College London with Drs. Heather Graven and Tim Arnold. 
+Hello!
 
-Research Interests
+I'm Eric, and I'm currently a Postdoctoral Research Associate in the [Atmospheric Chemistry Research Group](https://www.bristol.ac.uk/chemistry/research/acrg/) at the University of Bristol working with Prof. Matt Rigby and Dr. Anita Ganesan. In my current role as an atmospheric scientist I develop methods for quantifying sources and sinks of greenhouse gases using Bayesian methods. I recently completed my PhD in the Department of Physics at Imperial College London where I was supervised by Drs. Heather Graven and Tim Arnold (NPL). 
+
+Alongside my research I am involved in some science communication projects including my podcast _A Cup of Atmospheric Science_ where I share and interview atmospheric scientists about their work. 
+
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/3XsZJumszhZOgNvL11vw77?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
+Current Research Interests
 ======
-  o Regional atmospheric modellings of greenhouse gases (CO2, CH4, N2O)
+  - Regional atmospheric modelling of greenhouse gases (CO2, CH4, N2O)
 
-  o Application of Bayesian methods for source and sink attribution
+  - Application of Bayesian methods for source and sink attribution of greenhouse gases 
 
-  o Carbon isotopes as tracers of CO2 and CH4 emissions
+  - Using carbon isotopes as source tracers of CO2 and CH4 emissions
 
 
 

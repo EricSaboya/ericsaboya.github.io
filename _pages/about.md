@@ -1,29 +1,16 @@
 ---
 permalink: /
-title: "Postdoctoral Research Associate at the University of Bristol"
+title: "Eric Saboya"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+Eric Saboya is an atmospheric scientist at the Massachusetts Institute for Technology where he develops novel methods for quantifying national greenhouse gas emissions. His expertise is in source attribution of greenhouse gas emissions of which he has a deep understanding.
 
-Hello!
+Saboya previously worked at the University of Bristol (where he still holds an honorary position) and has a PhD in Physics from Imperial College London. Saboya has contributed to numerous research articles, presented his research at international conferences and to UK government officials. 
 
-I'm Eric, and I'm currently a Postdoctoral Research Associate in the [Atmospheric Chemistry Research Group](https://www.bristol.ac.uk/chemistry/research/acrg/) at the University of Bristol working with Prof. Matt Rigby and Dr. Anita Ganesan. In my current role as an atmospheric scientist I develop methods for quantifying sources and sinks of greenhouse gases using Bayesian statistical approaches. I recently completed my PhD in the Department of Physics at Imperial College London where I was supervised by Drs. Heather Graven and Tim Arnold (NPL). 
-
-Current Research Interests
-======
-  - Regional atmospheric modelling of greenhouse gases (CO2, CH4, N2O)
-
-  - Application of Bayesian methods for source and sink attribution of greenhouse gases 
-
-  - Using carbon isotopes as source tracers of CO2 and CH4 emissions
-
-
-Alongside my research I am involved in some science communication projects including my podcast _A Cup of Atmospheric Science_ where I share and interview atmospheric scientists about their work (Please go check it out!). 
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/3XsZJumszhZOgNvL11vw77?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 
 

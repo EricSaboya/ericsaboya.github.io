@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Eric Saboya is an atmospheric scientist at the Massachusetts Institute for Technology where he develops novel methods for quantifying national greenhouse gas emissions. His expertise is in source attribution of greenhouse gas emissions of which he has a deep understanding.
+Eric Saboya is an atmospheric scientist at the Massachusetts Institute for Technology where he develops novel methods for quantifying sources of greenhouse gas emissions through computational Bayesian modeling.
 
-Saboya previously worked at the University of Bristol (where he still holds an honorary position) and has a PhD in Physics from Imperial College London. Saboya has contributed to numerous research articles, presented his research at international conferences and to UK government officials. 
+Saboya previously worked at the University of Bristol (where he still holds an honorary position) and has a PhD in Physics from Imperial College London. Saboya has contributed to numerous research articles, presented his research at international conferences and to UK government officials.
 
 
 

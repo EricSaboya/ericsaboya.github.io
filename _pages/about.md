@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Greetings from Earth's mighty troposphere"
+title: "Greetings from Earth's mighty troposphere ..."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,10 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-<figure>
-    <img src="boston_skyline.png" width="1100" height="400"
-</figure>
-  
+
+<img src="boston_skyline.png" width="1100" height="400"></img>
+
 
 Eric Saboya is an atmospheric scientist at the Massachusetts Institute for Technology where he develops advanced statistical methods for independent quantification of national greenhouse gas emissions. His research centers on Bayesian inverse modelling of atmospheric trace gas measurements, integrating ground-based observations to produce robust, policy-relevant emissions estimates.
 
@@ -20,10 +19,6 @@ His work directly supports the verification of national greenhouse gas inventori
 Methodologically, Saboya specializes in Bayesian hierarchical modelling, large-scale geospatial data integration, and using atmospheric tracers for constraining source-specific emissions. His work sits at the interface of atmospheric physics, statistical inference, and decision-relevant climate analytics.
 
 Beyond research, Saboya is an experienced science communicator and public engagement leader. He has developed climate workshops delivered to hundreds of students, produced a podcast featuring atmospheric scientists, and contributed to discussions at major climate forums. His broader goal is to ensure that atmospheric measurement science plays a central role in transparent, evidence-based climate action.
-
-> 
-
-
 
 
 

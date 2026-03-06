@@ -7,24 +7,24 @@ redirect_from:
   - /resume
 ---
 ## Positions Held
-#### Massachusetts Institute of Technology, Cambridge, MA, US | _Department of Earth, Atmospheric & Planetary Sciences_
+### Massachusetts Institute of Technology, Cambridge, MA, US | _Department of Earth, Atmospheric & Planetary Sciences_
 Postdoctoral associate                   2026-
 
-#### University of Bristol, Bristol, UK | _Department of Chemistry_
+### University of Bristol, Bristol, UK | _Department of Chemistry_
 Hononary research associate              2025-
 
 Research associate                       2022-2025
 
 
 ## Education
-#### **Imperial College London,** London, UK | _Department of Physics_
+### **Imperial College London,** London, UK | _Department of Physics_
 
 PhD, Atmospheric Physics                 2022
 
 
 MSc, Physics                             2018
 
-#### **University of Surrey,** Guildford, Surrey | _Department of Mathematics_
+### **University of Surrey,** Guildford, Surrey | _Department of Mathematics_
 
 BSc (Hons), Mathematics and Physics      2017
 

@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<img src="website_banner2.jpg" height=200 width=1000>
+<img src="/website_banner2.jpg">
 
 ## Positions Held
 ### Massachusetts Institute of Technology, Cambridge, MA, US | _Department of Earth, Atmospheric & Planetary Sciences_

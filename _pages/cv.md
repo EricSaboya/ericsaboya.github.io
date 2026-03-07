@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<img src="https://www.ivywise.com/wp-content/uploads/2022/07/MIT-Majors-Editorial-Use-Only-1.jpeg" height=200 width=1000>
+<img src="website_banner2.jpg" height=200 width=1000>
 
 ## Positions Held
 ### Massachusetts Institute of Technology, Cambridge, MA, US | _Department of Earth, Atmospheric & Planetary Sciences_

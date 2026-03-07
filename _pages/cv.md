@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "CV"
+title: "Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-<img src="/website_banner2.jpg">
+<img src="/website_banner2.jpg" height=400>
 
 ## Positions Held
 ### Massachusetts Institute of Technology, Cambridge, MA, US | _Department of Earth, Atmospheric & Planetary Sciences_
@@ -29,30 +29,30 @@ PhD, Atmospheric Physics                            2022
 MSc, Physics                                        2018
 
 
-**University of Surrey,** Guildford, UK | _Department of Mathematics_
-
+**University of Surrey,** Guildford, UK |  _Department of Mathematics_
 
 BSc (Hons), Mathematics and Physics                 2017
 
 
 ## Awards & Grants
-**Outreach Grant** | _Royal Society of Chemistry_ 
+
+**Outreach Grant** - _Royal Society of Chemistry_ 
 
 Secured £3800 in competitive funding to design and deliver climate change public engagement workshop
 
 
-**Cabot Institute Seedcorn Grant** | _University of Bristol_
+**Cabot Institute Seedcorn Grant** - _University of Bristol_
 
 Awarded £5000 for pilot research project integrating greenhouse gas emissions modeling,
 economic analysis, and food security strategy 
 
 
-**Grantham Institute Doctoral Training Programme** | _Imperial College London_
+**Grantham Institute Doctoral Training Programme** - _Imperial College London_
 
 Selected for a fully-funded 3.5-year PhD programme (one of ten students across the university)
 
 
-**Full Surrey Scholarship** | _University of Surrey_
+**Full Surrey Scholarship** - _University of Surrey_
 
 Full scholarship in recognition of exceptional academic performance and potential
 

@@ -6,26 +6,56 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+
+<img src="https://www.ivywise.com/wp-content/uploads/2022/07/MIT-Majors-Editorial-Use-Only-1.jpeg" height=200 width=1000>
+
 ## Positions Held
 ### Massachusetts Institute of Technology, Cambridge, MA, US | _Department of Earth, Atmospheric & Planetary Sciences_
-Postdoctoral associate                   2026-
+Postdoctoral associate                              2026-
 
 ### University of Bristol, Bristol, UK | _Department of Chemistry_
-Hononary research associate              2025-
+Hononary research associate                         2025-
 
-Research associate                       2022-2025
+Lead researcher on GHG emissions for food security  2024
+
+Postdoctoral research associate                     2022-2025
 
 
 ## Education
 **Imperial College London,** London, UK | _Department of Physics_
 
-PhD, Atmospheric Physics                 2022
+PhD, Atmospheric Physics                            2022
 
-MSc, Physics                             2018
+MSc, Physics                                        2018
 
-**University of Surrey,** Guildford, Surrey | _Department of Mathematics_
 
-BSc (Hons), Mathematics and Physics      2017
+**University of Surrey,** Guildford, UK | _Department of Mathematics_
+
+
+BSc (Hons), Mathematics and Physics                 2017
+
+
+## Awards & Grants
+**Outreach Grant** | _Royal Society of Chemistry_ 
+
+Secured £3800 in competitive funding to design and deliver climate change public engagement workshop
+
+
+**Cabot Institute Seedcorn Grant** | _University of Bristol_
+
+Awarded £5000 for pilot research project integrating greenhouse gas emissions modeling,
+economic analysis, and food security strategy 
+
+
+**Grantham Institute Doctoral Training Programme** | _Imperial College London_
+
+Selected for a fully-funded 3.5-year PhD programme (one of ten students across the university)
+
+
+**Full Surrey Scholarship** | _University of Surrey_
+
+Full scholarship in recognition of exceptional academic performance and potential
+
 
 ## Talks
 Selected presentations of my research delivered to academic peers and to UK government officials. 
@@ -45,12 +75,8 @@ Selected presentations of my research delivered to academic peers and to UK gove
 * Measuring methane in London: Are fossil-fuel emissions being under-reported? (COP 26, 2021)
 * Attributing regional UK CH4 sources with d13CH4 and ∆14CH4. (AGU, 2021)
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Teaching & Mentoring
+* Scientific computing guest lecturer, University of Bristol (2024-2025)
+* First year physics undergraduate TA, Imperial College London (2018-2022)
+* MSc & BSc student project supervisor (5 students)
+* PhD student mentoring (4 students)

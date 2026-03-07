@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Greetings from Earth's mighty troposphere ..."
+title: "Greetings from Earth's mighty troposphere"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

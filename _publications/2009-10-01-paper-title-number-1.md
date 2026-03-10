@@ -1,15 +1,22 @@
----
-title: "Paper Title Number 1"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
----
-This paper is about the number 1. The number 2 is left for future work.
+# Peer-Reviewed Publications
+1. **Saboya, E.,**, Manning, A. J., Levy, P., et al. (2024): ``Combining top-down and bottom-up approaches to evaluate recent trends and seasonal patterns in UK N2O emissions'', _JGR, Atmospheres_
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+2. Holland, R., Khan, A., **Saboya, E.** et al. (2024): ``Elucidating the effects of COVID-19 lockdowns in the UK on the O3-NOx-VOC relationship'', _Atmosphere_
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+3. Chawner, H., **Saboya, E.,**, Adcock, K. et al. (2024): ``Atmospheric oxygen as a tracer for fossil fuel carbon dioxide: a sensitivity study in the UK'', _ACP_
+
+4. Zazzeri, G., Graven, H., Xu, X., **Saboya, E.** et al. (2023): ``Radiocarbon measurements reveal underestimated fossil CH4 and CO2 emissions in London'', _GRL_
+
+5. **Saboya, E.,** Zazzeri, G., Graven, H. et al. (2022): ``Continuous CH4 and δ13CH4 measurements in London demonstrate under-reported natural gas leakage'', _ACP_
+
+
+# Publications In-Prep
+1. Perez et al., (_Submitted_): ``Sources of non-methane hydrocarbons and their impact on adverse health conditions in a small coastal city in Chile'', _APD_
+
+2. **Saboya, E.** et al. (_in prep_): ``Atmospheric radiocarbon as a tracer for fossil fuel carbon dioxide: a sensitivity study in the UK'', _ACP_
+
+3. Gonzalez, C., **Saboya, E.** et al. (_in_prep_): ``Atmospheric radiocarbon reveals empirical evidence for fossil fuel CO2 emissions in Germany''
+
+4. **Saboya, E.** et al. (_in prep_): Constraining European fossil fuel carbon dioxide emissions from inversions of atmospheric potential oxygen (2021-2025)''
+
+5. **Saboya, E.** et al. (_in prep_): ``Attributing regional CH4 sources with carbon-13 and radiocarbon in atmospheric CH4 in the UK'' 

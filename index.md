@@ -4,8 +4,8 @@ title: Home
 ---
 
 <div class="hero">
-    <h2>Atmospheric Inverse Modeling Group</h2>
-    <p>Understanding atmospheric composition through advanced computational techniques</p>
+    <h2>Eric Saboya</h2>
+    <p>Atmospheric Scientist at Massachusetts Institute of Technology</p>
 </div>
 
 <div class="page-container">

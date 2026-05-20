@@ -5,21 +5,19 @@ title: Contact
 
 ## Get In Touch
 
-We'd love to hear from you! Whether you're interested in our research, potential collaborations, or just want to say hello, please don't hesitate to reach out.
+I'd love to hear from you! Whether you're interested in my research, potential collaborations, or just want to say hello, please don't hesitate to reach out.
 
 ### Contact Information
 
 **Email:** [esaboya@mit.edu](mailto:esaboya@mit.edu)
 
-**Office Location:** [Building XX, Room XXX]  
+**Office Location:** [Building 54, Room 1326]  
 Massachusetts Institute of Technology  
 Cambridge, MA 02139
 
-**Phone:** [XXX-XXX-XXXX]
-
 ---
 
-## Send us a Message
+## Send me a Message
 
 <form class="contact-form" action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
     <div class="form-group">

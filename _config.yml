@@ -1,0 +1,21 @@
+# Site settings
+title: "Atmospheric Inverse Modeling Group"
+description: "Research group at MIT studying atmospheric composition and inverse modeling techniques"
+url: "https://yourusername.github.io"
+baseurl: "/atmospheric-inverse-modeling"
+
+# Build settings
+markdown: kramdown
+theme: null
+plugins:
+  - jekyll-feed
+
+# Collections for team members (optional, for dynamic people pages)
+collections:
+  team:
+    output: false
+
+# Author information
+author:
+  name: "Eric Saboya"
+  email: "esaboya@mit.edu"

@@ -10,7 +10,7 @@ title: Home
 
 <div class="page-container">
     <div class="hero-image">
-        <img src="{{ site.baseurl }}/assets/images/website_banner2.jpg" alt="Group Photo">
+        <img src="{{ site.baseurl }}/assets/images/website_banner2.png" alt="Group Photo">
         <!-- Replace with your group photo -->
     </div>
 

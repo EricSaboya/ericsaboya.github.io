@@ -1,0 +1,537 @@
+/* MIT Color Palette */
+:root {
+    --mit-red: #A31F34;
+    --mit-gray-dark: #333333;
+    --mit-gray-light: #F0F0F0;
+    --mit-white: #FFFFFF;
+    --accent-blue: #0099CC;
+    --text-color: #333333;
+}
+
+/* Reset & Base Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    color: var(--text-color);
+    background-color: var(--mit-white);
+}
+
+/* Navigation */
+.navbar {
+    background-color: var(--mit-white);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+.nav-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 70px;
+}
+
+.nav-logo a {
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    line-height: 1.2;
+}
+
+.logo-text {
+    font-size: 20px;
+    font-weight: 700;
+    color: var(--mit-red);
+}
+
+.logo-subtitle {
+    font-size: 12px;
+    color: var(--mit-gray-dark);
+    letter-spacing: 2px;
+}
+
+.nav-menu {
+    display: flex;
+    list-style: none;
+    gap: 30px;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: var(--text-color);
+    font-weight: 500;
+    font-size: 16px;
+    transition: color 0.3s ease;
+    border-bottom: 2px solid transparent;
+    padding-bottom: 5px;
+}
+
+.nav-link:hover {
+    color: var(--mit-red);
+    border-bottom-color: var(--mit-red);
+}
+
+/* Main Content */
+.main-content {
+    min-height: calc(100vh - 200px);
+    padding: 40px 20px;
+}
+
+.page-container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.page-header {
+    margin-bottom: 40px;
+    padding-bottom: 20px;
+    border-bottom: 3px solid var(--mit-red);
+}
+
+.page-header h1 {
+    font-size: 42px;
+    color: var(--mit-red);
+    font-weight: 700;
+}
+
+.page-content {
+    font-size: 16px;
+    line-height: 1.8;
+}
+
+/* Hero Section (Home Page) */
+.hero {
+    background: linear-gradient(135deg, var(--mit-red), var(--mit-gray-dark));
+    color: var(--mit-white);
+    padding: 80px 40px;
+    text-align: center;
+    border-radius: 8px;
+    margin-bottom: 60px;
+}
+
+.hero h2 {
+    font-size: 48px;
+    margin-bottom: 20px;
+    font-weight: 700;
+}
+
+.hero p {
+    font-size: 20px;
+    max-width: 600px;
+    margin: 0 auto;
+    opacity: 0.95;
+}
+
+.hero-image {
+    width: 100%;
+    height: 400px;
+    background-color: var(--mit-gray-light);
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #999;
+    font-size: 16px;
+    margin-bottom: 60px;
+    overflow: hidden;
+}
+
+.hero-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+/* Mission & Vision Sections */
+.section {
+    margin-bottom: 60px;
+}
+
+.section h3 {
+    font-size: 28px;
+    color: var(--mit-red);
+    margin-bottom: 15px;
+    font-weight: 700;
+}
+
+.section-content {
+    background-color: var(--mit-gray-light);
+    padding: 30px;
+    border-left: 4px solid var(--mit-red);
+    border-radius: 4px;
+    font-size: 16px;
+    line-height: 1.8;
+}
+
+/* Two-Column Layout */
+.two-column {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 40px;
+    margin-bottom: 60px;
+}
+
+@media (max-width: 768px) {
+    .two-column {
+        grid-template-columns: 1fr;
+    }
+}
+
+/* Research Section */
+.research-activities {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 30px;
+    margin-bottom: 60px;
+}
+
+.research-card {
+    background-color: var(--mit-gray-light);
+    padding: 30px;
+    border-radius: 8px;
+    border-top: 4px solid var(--mit-red);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.research-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 16px rgba(163, 31, 52, 0.15);
+}
+
+.research-card h4 {
+    font-size: 20px;
+    color: var(--mit-red);
+    margin-bottom: 15px;
+    font-weight: 600;
+}
+
+.research-card p {
+    font-size: 15px;
+    line-height: 1.7;
+    color: var(--text-color);
+}
+
+/* Project Partners */
+.partners-section {
+    background-color: var(--mit-gray-light);
+    padding: 40px;
+    border-radius: 8px;
+    margin-bottom: 60px;
+}
+
+.partners-section h4 {
+    font-size: 22px;
+    color: var(--mit-red);
+    margin-bottom: 20px;
+    font-weight: 600;
+}
+
+.partners-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
+}
+
+.partner-item {
+    background-color: var(--mit-white);
+    padding: 20px;
+    border-radius: 6px;
+    text-align: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.partner-item h5 {
+    color: var(--mit-red);
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+
+.partner-item p {
+    font-size: 13px;
+    color: #666;
+}
+
+/* People Section */
+.team-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 40px;
+    margin-bottom: 60px;
+}
+
+.team-member {
+    text-align: center;
+    transition: transform 0.3s ease;
+}
+
+.team-member:hover {
+    transform: scale(1.05);
+}
+
+.member-image {
+    width: 100%;
+    height: 300px;
+    background-color: var(--mit-gray-light);
+    border-radius: 8px;
+    margin-bottom: 20px;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #999;
+    font-size: 14px;
+}
+
+.member-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.member-info h4 {
+    font-size: 20px;
+    color: var(--mit-red);
+    margin-bottom: 5px;
+    font-weight: 600;
+}
+
+.member-title {
+    font-size: 14px;
+    color: var(--accent-blue);
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+
+.member-bio {
+    font-size: 14px;
+    line-height: 1.6;
+    color: #666;
+    margin-bottom: 15px;
+}
+
+.member-contact {
+    font-size: 13px;
+}
+
+.member-contact a {
+    color: var(--mit-red);
+    text-decoration: none;
+}
+
+.member-contact a:hover {
+    text-decoration: underline;
+}
+
+/* Contact Form */
+.contact-form {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: 600;
+    color: var(--mit-red);
+}
+
+.form-group input,
+.form-group textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-family: inherit;
+    font-size: 14px;
+    transition: border-color 0.3s ease;
+}
+
+.form-group input:focus,
+.form-group textarea:focus {
+    outline: none;
+    border-color: var(--mit-red);
+    box-shadow: 0 0 0 3px rgba(163, 31, 52, 0.1);
+}
+
+.form-group textarea {
+    resize: vertical;
+    min-height: 150px;
+}
+
+/* Button Styles */
+.btn {
+    display: inline-block;
+    padding: 12px 30px;
+    background-color: var(--mit-red);
+    color: var(--mit-white);
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    text-decoration: none;
+}
+
+.btn:hover {
+    background-color: #8B1A2D;
+    transform: translateY(-2px);
+}
+
+.btn:active {
+    transform: translateY(0);
+}
+
+/* Publications Section */
+.publications-list {
+    margin-top: 40px;
+}
+
+.publication-item {
+    padding: 20px;
+    background-color: var(--mit-gray-light);
+    border-radius: 6px;
+    margin-bottom: 15px;
+    border-left: 4px solid var(--mit-red);
+    transition: background-color 0.3s ease;
+}
+
+.publication-item:hover {
+    background-color: #E8E8E8;
+}
+
+.publication-year {
+    font-size: 12px;
+    color: var(--accent-blue);
+    font-weight: 700;
+    margin-bottom: 5px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.publication-title {
+    font-size: 16px;
+    font-weight: 600;
+    color: var(--mit-red);
+    margin-bottom: 8px;
+}
+
+.publication-authors {
+    font-size: 14px;
+    color: #666;
+    margin-bottom: 8px;
+    font-style: italic;
+}
+
+.publication-journal {
+    font-size: 14px;
+    color: var(--text-color);
+}
+
+.publication-link {
+    display: inline-block;
+    margin-top: 10px;
+    color: var(--mit-red);
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 13px;
+}
+
+.publication-link:hover {
+    text-decoration: underline;
+}
+
+/* Footer */
+.footer {
+    background-color: var(--mit-gray-dark);
+    color: var(--mit-white);
+    margin-top: 80px;
+    padding: 40px 20px;
+}
+
+.footer-container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.footer-content {
+    margin-bottom: 20px;
+}
+
+.footer-content p {
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+
+.footer-content a {
+    color: var(--accent-blue);
+    text-decoration: none;
+}
+
+.footer-content a:hover {
+    text-decoration: underline;
+}
+
+.footer-links {
+    text-align: center;
+    padding-top: 20px;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+    font-size: 13px;
+}
+
+.footer-links a {
+    color: var(--accent-blue);
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.footer-links a:hover {
+    text-decoration: underline;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .nav-menu {
+        gap: 15px;
+    }
+    
+    .nav-link {
+        font-size: 14px;
+    }
+    
+    .page-header h1 {
+        font-size: 32px;
+    }
+    
+    .hero h2 {
+        font-size: 36px;
+    }
+    
+    .hero p {
+        font-size: 16px;
+    }
+    
+    .hero {
+        padding: 60px 20px;
+    }
+}

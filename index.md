@@ -7,13 +7,15 @@ title: Home
     <h2>Eric Saboya</h2>
     <p>Atmospheric Scientist at Massachusetts Institute of Technology</p>
 </div>
+
 <div class="page-container">
-    < div class="section">
-        <h3><i> Turning atmospheric trace gas measurements into evidence for climate accountability </i></h3>
-    </div>
     <div class="hero-image">
         <img src="{{ site.baseurl }}/assets/images/website_banner2.png" alt="Group Photo">
         <!-- Replace with your group photo -->
+    </div>
+
+    <div class="section">
+        <h3><i> Turning atmospheric trace gas measurements into evidence for climate accountability </i></h3>
     </div>
 
     <div class="two-column">

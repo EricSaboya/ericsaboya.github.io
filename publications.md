@@ -3,22 +3,39 @@ layout: page
 title: Publications
 ---
 
-## Group Publications
+## Publications
 
 <div class="publications-list">
     <div class="publication-item">
         <div class="publication-year">2026</div>
         <div class="publication-title">
-            Publication Title Goes Here
+            Atmospheric radiocarbon as a tracer for fossil fuel carbon dioxide: a UK and European sensitivity study (2022-2024)
         </div>
         <div class="publication-authors">
-            Author One, Author Two, Author Three
+            Eric Saboya, Carlos Gomex-Ortiz, Samuel Hammer et al.
         </div>
         <div class="publication-journal">
-            Journal Name, Volume(Issue): Pages. DOI: [link]
+            Atmospheric Chemistry Physics, _in prep_ 
         </div>
         <a href="#" class="publication-link">Read Paper →</a>
     </div>
+
+    <div class="publication-item">
+        <div class="publication-year">2026</div>
+        <div class="publication-title">
+           Constraining European fossil fuel carbon dioxide emissions from inversions of atmospheric ∆14CO2 and CO2 (2022-2024)
+        </div>
+        <div class="publication-authors">
+             Carlos Gomex-Ortiz, Eric Saboya, Samuel Hammer et al.
+        </div>
+        <div class="publication-journal">
+           PNAS, _in prep_ 
+        </div>
+        <a href="#" class="publication-link">Read Paper →</a>
+    </div>
+
+
+
     
     <div class="publication-item">
         <div class="publication-year">2025</div>

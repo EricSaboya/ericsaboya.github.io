@@ -16,12 +16,10 @@ title: Home
 
     <div class="two-column">
         <div class="section">
-            <h3>Mission Statement</h3>
+            <h3>Mission</h3>
             <div class="section-content">
                 <p>
-                    [Your mission statement here. Describe the core purpose and goals of your research group. 
-                    For example: "To advance our understanding of atmospheric composition and chemical cycles 
-                    through innovative inverse modeling approaches that integrate observations and computational science."]
+                    [Turning atmospheric measurements into evidence for climate action and accountability]
                 </p>
             </div>
         </div>
@@ -30,16 +28,14 @@ title: Home
             <h3>Vision Statement</h3>
             <div class="section-content">
                 <p>
-                    [Your vision statement here. Describe the long-term aspirations and impact you hope to achieve. 
-                    For example: "To become a leading research group in atmospheric science, contributing to improved 
-                    climate and air quality predictions through cutting-edge inverse modeling methods."]
+                    [Through advanced inverse modeling and isotopic analysis, I reconcile reported and actual greenhouse gas emissions to strengthen the scientific foundations of transparent, evidence-based climate action]
                 </p>
             </div>
         </div>
     </div>
 
     <div class="section">
-        <h3>About Our Group</h3>
+        <h3>Research Interests</h3>
         <div class="section-content">
             <p>
                 [Provide a detailed overview of your group's activities, research focus, and significance. 

@@ -17,8 +17,7 @@ title: Home
         <div class="section">
             <h3>Mission</h3>
             <div class="section">
-                   <h5><i> Turning atmospheric measurements into evidence for climate action and accountability. </i> </h5>
-
+                   <h3><i> Turning atmospheric measurements into evidence for climate action and accountability. </i> </h3>
             </div>
         </div>
         
@@ -34,10 +33,10 @@ title: Home
 
     <div class="section">
         <h3>Research</h3>
-        <div class="section-content">
-            <p>
-                I develop models to infer national greenhouse gas emission estimates from atmospheric trace gas measurements for ensuring net zero. See my research section for more details!
-            </p>
+        <div class="section">
+            <h3><i>
+                Solving complex climate issues through developing statistical models to infer greenhouse gas emission estimates from atmospheric trace gas measurements.
+            </i> </h3>
         </div>
     </div>
 

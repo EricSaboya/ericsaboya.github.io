@@ -12,10 +12,10 @@ title: Publications
             Atmospheric radiocarbon as a tracer for fossil fuel carbon dioxide: a UK and European sensitivity study (2022-2024)
         </div>
         <div class="publication-authors">
-            Eric Saboya, Carlos Gomex-Ortiz, Samuel Hammer et al.
+            Eric Saboya, Carlos Gomez-Ortiz, Samuel Hammer et al.
         </div>
         <div class="publication-journal">
-            Atmospheric Chemistry Physics, _in prep_ 
+            Atmospheric Chemistry Physics, in prep
         </div>
         <a href="#" class="publication-link">Read Paper →</a>
     </div>
@@ -23,13 +23,13 @@ title: Publications
     <div class="publication-item">
         <div class="publication-year">2026</div>
         <div class="publication-title">
-           Constraining European fossil fuel carbon dioxide emissions from inversions of atmospheric ∆14CO2 and CO2 (2022-2024)
+           Constraining European fossil fuel carbon dioxide emissions from inversions of atmospheric ∆<sup>14</sup>CO<sub>2</sub> and CO<sub>2</sub> (2022-2024)
         </div>
         <div class="publication-authors">
-             Carlos Gomex-Ortiz, Eric Saboya, Samuel Hammer et al.
+             Carlos Gomez-Ortiz, Eric Saboya, Samuel Hammer et al.
         </div>
         <div class="publication-journal">
-           PNAS, _in prep_ 
+           PNAS, in prep
         </div>
         <a href="#" class="publication-link">Read Paper →</a>
     </div>
@@ -41,21 +41,16 @@ title: Publications
     <div class="publication-item">
         <div class="publication-year">2022</div>
         <div class="publication-title">
-            Continuous CH$_4$ and $\delta^{13}$CH$_4$ measurements in London demonstrate under-reported natural gas leakage
+            Continuous CH<sub>4</sub> and δ<sup>13</sup>CH<sub>4</sub> measurements in London demonstrate under-reported natural gas leakage
         </div>
         <div class="publication-authors">
             Eric Saboya, Giulia Zazzeri, Heather Graven et al.
         </div>
         <div class="publication-journal">
-            Atmospheric Chemistry Physics, 22(5): 3595-3613. DOI: [10.5194/acp-22-3595-2022]
+            Atmospheric Chemistry Physics, 22(5): 3595-3613. DOI: [https://doi.org/10.5194/acp-22-3595-2022]
         </div>
-        <a href="#" class="publication-link">Read Paper → [https://acp.copernicus.org/articles/22/3595/2022/acp-22-3595-2022.html] </a>
+        <a href="#" class="publication-link">Read Paper → </a>
     </div>
-
-
-!!
-
-
 
     
     <div class="publication-item">

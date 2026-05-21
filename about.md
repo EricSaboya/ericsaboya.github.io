@@ -35,10 +35,10 @@ Beyond research, Saboya is an experienced science communicator and public engage
             <h4>Vitae</h4>
             <div class="member-title"> </div>
             <p class="member-bio">
-            <h5> Education <\h5> \
-                <i> PhD, Atmospheric Physics <\i> \vert  Imperial College London \
-                <i> MSc, Physics <\i> \vert  Imperial College London \
-                <i> BSc (Hons), Mathematics and Physics <\i> \vert  University of Surrey \
+            <b> Education </b> \
+                <i> PhD, Atmospheric Physics </i> /vert  Imperial College London \
+                <i> MSc, Physics </i> /vert  Imperial College London \
+                <i> BSc (Hons), Mathematics and Physics </i> /vert  University of Surrey \
             </p>
             <div class="member-contact">
                 <a href="mailto:esaboya@mit.edu"> </a>

@@ -16,10 +16,9 @@ title: Home
     <div class="two-column">
         <div class="section">
             <h3>Mission</h3>
-            <div class="section-content">
-                <p>
-                    Turning atmospheric measurements into evidence for climate action and accountability.
-                </p>
+            <div class="section">
+                   <h5><i> Turning atmospheric measurements into evidence for climate action and accountability. </i> </h5>
+
             </div>
         </div>
         

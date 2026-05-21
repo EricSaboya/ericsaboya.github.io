@@ -2,9 +2,10 @@
 layout: page
 title: ARTEMIS
 ---
-## Atmospheric Regional Trace gas Emissions Modeling Inverse System
-![Essay Image]({{ site.baseurl }}/assets/images/artemis_logo_small.png)
 
+![Essay Image]({{ site.baseurl }}/assets/images/artemis_logo_tiny.png)
+
+## Atmospheric Regional Trace gas Emissions Modeling Inverse System
 A collection of insights and reflections on atmospheric science, climate research, and the stories behind our discoveries.
 
 ---

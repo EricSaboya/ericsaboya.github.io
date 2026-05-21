@@ -8,6 +8,9 @@ title: Home
     <p>Atmospheric Scientist at Massachusetts Institute of Technology</p>
 </div>
 <div class="page-container">
+    < div class="section">
+        <h3><i> Turning atmospheric trace gas measurements into evidence for climate accountability </i></h3>
+    </div>
     <div class="hero-image">
         <img src="{{ site.baseurl }}/assets/images/website_banner2.png" alt="Group Photo">
         <!-- Replace with your group photo -->
@@ -16,8 +19,10 @@ title: Home
     <div class="two-column">
         <div class="section">
             <h3>Mission</h3>
-            <div class="section">
-                   <h3><i> Turning atmospheric measurements into evidence for climate action and accountability. </i> </h3>
+            <div class="section-content">
+                <p>
+                Include something here, maybe another image?
+                </p>
             </div>
         </div>
         
@@ -33,10 +38,10 @@ title: Home
 
     <div class="section">
         <h3>Research</h3>
-        <div class="section">
-            <h3><i>
+        <div class="section-content">
+            <p><i>
                 Solving complex climate issues through developing statistical models to infer greenhouse gas emission estimates from atmospheric trace gas measurements.
-            </i> </h3>
+            </i> </p>
         </div>
     </div>
 

@@ -36,6 +36,27 @@ title: Publications
 
 
 
+
+
+    <div class="publication-item">
+        <div class="publication-year">2022</div>
+        <div class="publication-title">
+            Continuous CH$_4$ and $\delta^{13}$CH$_4$ measurements in London demonstrate under-reported natural gas leakage
+        </div>
+        <div class="publication-authors">
+            Eric Saboya, Giulia Zazzeri, Heather Graven et al.
+        </div>
+        <div class="publication-journal">
+            Atmospheric Chemistry Physics, 22(5): 3595-3613. DOI: [10.5194/acp-22-3595-2022]
+        </div>
+        <a href="#" class="publication-link">Read Paper → [https://acp.copernicus.org/articles/22/3595/2022/acp-22-3595-2022.html] </a>
+    </div>
+
+
+!!
+
+
+
     
     <div class="publication-item">
         <div class="publication-year">2025</div>

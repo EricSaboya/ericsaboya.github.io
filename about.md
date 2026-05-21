@@ -3,8 +3,6 @@ layout: page
 title: About
 ---
 
-## Greetings!
-
 <div class="team-grid">
     <div class="team-member">
         <div class="member-image">
@@ -14,14 +12,11 @@ title: About
             <h4>Eric Saboya</h4>
             <div class="member-title">Postdoctoral Researcher</div>
             <p class="member-bio">
+Eric Saboya is an atmospheric scientist developing advanced statistical methods for independent quantification of national greenhouse gas emissions. His research centers on Bayesian inverse modelling of atmospheric trace gas measurements, integrating ground-based observations to produce robust, policy-relevant emissions estimates.  
 
-Eric Saboya is an atmospheric scientist developing advanced statistical methods for independent quantification of national greenhouse gas emissions. His research centers on Bayesian inverse modelling of atmospheric trace gas measurements, integrating ground-based observations to produce robust, policy-relevant emissions estimates.
+His work directly supports the verification of national greenhouse gas inventories and strengthens the scientific foundations of international climate accountability. Saboya has collaborated with UK government departments, the Met Office, and industry stakeholders to translate complex atmospheric data into actionable insights for climate policy and emissions mitigation strategies.  
 
-His work directly supports the verification of national greenhouse gas inventories and strengthens the scientific foundations of international climate accountability. Saboya has collaborated with UK government departments, the Met Office, and industry stakeholders to translate complex atmospheric data into actionable insights for climate policy and emissions mitigation strategies.
-
-Methodologically, Saboya specializes in Bayesian hierarchical modelling, large-scale geospatial data integration, and using atmospheric tracers for constraining source-specific emissions. His work sits at the interface of atmospheric physics, statistical inference, and decision-relevant climate analytics.
-
-Beyond research, Saboya is an experienced science communicator and public engagement leader. He has developed climate workshops delivered to hundreds of students, produced a podcast featuring atmospheric scientists, and contributed to discussions at major climate forums. His broader goal is to ensure that atmospheric measurement science plays a central role in transparent, evidence-based climate action.
+Beyond research, Saboya is an experienced science communicator and public engagement leader. He has developed climate workshops delivered to hundreds of students, produced a podcast featuring atmospheric scientists, and contributed to discussions at major climate forums. His broader goal is to ensure that atmospheric measurement science plays a central role in transparent, evidence-based climate action.  
 
 
             </p>

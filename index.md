@@ -7,7 +7,6 @@ title: Home
     <h2>Eric Saboya</h2>
     <p>Atmospheric Scientist at Massachusetts Institute of Technology</p>
 </div>
-
 <div class="page-container">
     <div class="hero-image">
         <img src="{{ site.baseurl }}/assets/images/website_banner2.png" alt="Group Photo">
@@ -19,28 +18,26 @@ title: Home
             <h3>Mission</h3>
             <div class="section-content">
                 <p>
-                    [Turning atmospheric measurements into evidence for climate action and accountability]
+                    Turning atmospheric measurements into evidence for climate action and accountability.
                 </p>
             </div>
         </div>
         
         <div class="section">
-            <h3>Vision Statement</h3>
+            <h3>Vision</h3>
             <div class="section-content">
                 <p>
-                    [Through advanced inverse modeling and isotopic analysis, I reconcile reported and actual greenhouse gas emissions to strengthen the scientific foundations of transparent, evidence-based climate action]
+                    Through advanced inverse modeling and atmospheric forensics, I reconcile reported and actual greenhouse gas emissions to strengthen the scientific foundations of transparent, evidence-based climate action.
                 </p>
             </div>
         </div>
     </div>
 
     <div class="section">
-        <h3>Research Interests</h3>
+        <h3>Research</h3>
         <div class="section-content">
             <p>
-                [Provide a detailed overview of your group's activities, research focus, and significance. 
-                Describe what makes your work unique and the broader impacts of your research. 
-                Mention key collaborations, funding agencies, or notable achievements.]
+                I develop models to infer national greenhouse gas emission estimates from atmospheric trace gas measurements for ensuring net zero. See my research section for more details!
             </p>
         </div>
     </div>

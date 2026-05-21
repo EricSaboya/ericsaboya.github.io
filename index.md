@@ -9,15 +9,15 @@ title: Home
 </div>
 
 <div class="page-container">
+    <div class="section">
+        <h3 align="center"><i> Turning atmospheric trace gas measurements into evidence for climate accountability </i></h3>
+    </div>
+    
     <div class="hero-image">
         <img src="{{ site.baseurl }}/assets/images/website_banner2.png" alt="Group Photo">
         <!-- Replace with your group photo -->
     </div>
-
-    <div class="section">
-        <h3><i> Turning atmospheric trace gas measurements into evidence for climate accountability </i></h3>
-    </div>
-
+    
     <div class="two-column">
         <div class="section">
             <h3>Mission</h3>
